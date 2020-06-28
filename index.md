@@ -6,3 +6,4 @@ Die Figur ist der erste Superheld der Comicgeschichte, begründete ein Comicgenr
 * Stark
 * Fliegt
 * Hilft
+* gerecht

@@ -6,7 +6,8 @@ Die Figur ist der erste Superheld der Comicgeschichte, begründete ein Comicgenr
 * Stark
 * Fliegt
 * Hilft
-* gerecht
+* gerecht 
 Superman said:
 > I’ve always been more interested
-> in the future than in the past.
+> in the future than in the past. 
+<img src="https://images.app.goo.gl/cSpYzSS4X6rHM4i66"/>

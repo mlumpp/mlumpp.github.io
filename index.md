@@ -7,3 +7,6 @@ Die Figur ist der erste Superheld der Comicgeschichte, begründete ein Comicgenr
 * Fliegt
 * Hilft
 * gerecht
+Superman said:
+> I’ve always been more interested
+> in the future than in the past.
